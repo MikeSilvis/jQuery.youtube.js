@@ -1,7 +1,7 @@
 jQuery.youtube.js
 =================
 
-Provides an easy to use wrapper around GA tracking for YouTube videos that allow you never have to type any JavaScript.
+Provides an easy to use wrapper around GA tracking for YouTube videos without typing any JavaScript.
 
 ## Automagically:
 
