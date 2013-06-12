@@ -31,6 +31,7 @@ This also triggers an event you can listen for elsewhere by binding to the ID of
 
 ## Options & Fallbacks
 
+First it tries to find the params passed in as a hash, then it falls back to a data attribute, and lastly it falls back to sensible defaults.
 ``` javascript
   var elementId         = $(this).attr('id');
   var playerWidth       = options.width        || $(this).data("width")         || '620';
