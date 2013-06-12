@@ -40,3 +40,10 @@ First it tries to find the params passed in as a hash, then it falls back to a d
   var trackingAction    = options.action       || $(this).data("action")        || 'youtube';
   var playerVars        = options.playerVars   || $(this).data("player-vars")   || {rel: 0};
 ```
+
+## Contributors
+
+This plugin was created and maintained by 
+
+[Mike Silvis]("http://mikesilvis.com")
+[Horace Williams]("http://twitter.com/worace")
